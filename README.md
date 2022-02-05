@@ -17,7 +17,7 @@ We will be looking at the seasonal trends of the incidences of the West Nile vir
 | date                           | datetime64[ns] | The date of observation           |
 | latitude                       | float64        | The latitude of the trap             |
 | longitude                      | float64        | The longitude of the trap             |
-| wnv_present \n (dependent variable)  | int64          | Whether the virus was present in the mosquitoes trapped             |
+| wnv_present                    | int64          | Whether the virus was present in the mosquitoes trapped (dependent variable)            |
 | tavg                           | float64        | The average temperature from both stations             |
 | dew_point                      | float64        | The average dewpoint from both stations             |
 | precip_total                   | float64        | The average total precipitation for both stations             |
